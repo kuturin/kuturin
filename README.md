@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kuturin
 - 👀 I’m interested in learning programming langueages
 - 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on any project
+- 💞️ I’m looking for working on any project
 - 📫 How to reach me turkurun2@gmail.com agrabska1994@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: TTRPG player and GM
