@@ -23,7 +23,7 @@ I am Ania. I am an aspiring full-stack developer and aspiring software developer
 
 I'm always open to collaborating on interesting projects, contributing to open-source initiatives, or discussing new ideas. Feel free to reach out if you have a project you'd like to work on together or want to connect!
 
-**Email:** [agrabska1994@gmail.com](mailto:agrabska1994@gmail.com)  
+**Email:** [agrabska1994](mailto:agrabska1994@gmail.com)  
 **LinkedIn:** [Anna Grabska]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/anna-grabska-94a569339/))  
 
 <!---
