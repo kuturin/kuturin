@@ -15,16 +15,16 @@ I am Ania. I am an aspiring full-stack developer and aspiring software developer
 
 ## Technology
 
--**Using:** HTML, CSS, JS, React, C#  
--**Learning:** React, C#, TypeScript  
--<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/672c8e9331d65c235d34fa7f?variant=dark&roadmaps=frontend%2Cbackend%2Cjavascript%2Creact" alt="roadmap.sh"/></a>  
+**Using:** HTML, CSS, JS, React, C#  
+**Learning:** React, C#, TypeScript  
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/672c8e9331d65c235d34fa7f?variant=dark&roadmaps=frontend%2Cbackend%2Cjavascript%2Creact" alt="roadmap.sh"/></a>  
 
 ## 🤝 Open to Collaboration
 
 I'm always open to collaborating on interesting projects, contributing to open-source initiatives, or discussing new ideas. Feel free to reach out if you have a project you'd like to work on together or want to connect!
 
-- **Email:** [agrabska1994@gmail.com](mailto:agrabska1994@gmail.com)  
-- **LinkedIn:** [Anna Grabska]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/anna-grabska-94a569339/))  
+**Email:** [agrabska1994@gmail.com](mailto:agrabska1994@gmail.com)  
+**LinkedIn:** [Anna Grabska]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/anna-grabska-94a569339/))  
 
 <!---
 kuturin/kuturin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
