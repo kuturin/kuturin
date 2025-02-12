@@ -1,22 +1,22 @@
 # Hello everyone.
 
 I am Ania. I am an aspiring full-stack developer and aspiring software developer from Poland. Nice to meet you.
-![kuturin's Stats](https://github-readme-stats.vercel.app/api?username=kuturin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![kuturin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kuturin&theme=vue-dark&hide_border=true)
-![kuturin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuturin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+-![kuturin's Stats](https://github-readme-stats.vercel.app/api?username=kuturin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+-![kuturin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kuturin&theme=vue-dark&hide_border=true)
+-![kuturin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuturin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## About me
 
-**Name:** Anna or Ania
-**Age:** 31
-**Loves:** TTRPG, Fantasy, Lovecraftian Horror, Anime, Video Games
-**Gender:** Female (She/Her)
-**Hobbies:** Programming, TTRPG, Video Games, Anime
+-**Name:** Anna or Ania
+-**Age:** 31
+-**Loves:** TTRPG, Fantasy, Lovecraftian Horror, Anime, Video Games
+-**Gender:** Female (She/Her)
+-**Hobbies:** Programming, TTRPG, Video Games, Anime
 
 ## Technology
-**Using:** HTML, CSS, JS, React, C#
-**Learning:** React, C#, TypeScript
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/672c8e9331d65c235d34fa7f?variant=dark&roadmaps=frontend%2Cbackend%2Cjavascript%2Creact" alt="roadmap.sh"/></a>
+-**Using:** HTML, CSS, JS, React, C#
+-**Learning:** React, C#, TypeScript
+-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/672c8e9331d65c235d34fa7f?variant=dark&roadmaps=frontend%2Cbackend%2Cjavascript%2Creact" alt="roadmap.sh"/></a>
 
 ## 🤝 Open to Collaboration
 
