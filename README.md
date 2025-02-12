@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuturin
 - 👀 I’m interested Frontend and Fullstack 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js, C# and Typescript
 - 💞️ I’m looking to work on any project
 - 📫 How to reach me turkurun2@gmail.com agrabska1994@gmail.com
 - 😄 Pronouns: She/Her
