@@ -15,7 +15,7 @@ I am Ania. I am an aspiring full-stack developer and aspiring software developer
 ## Technology
 
 **Using:** HTML, CSS, JS, React, C#  
-**Learning:** React, C#, TypeScript, Node.js  
+**Learning:** React, C#, TypeScript, Node.js, C++
 [![roadmap.sh](https://roadmap.sh/card/tall/672c8e9331d65c235d34fa7f?variant=dark&roadmaps=typescript%2Cbackend%2Creact%2Cfrontend)](https://roadmap.sh)
 
 ## 🤝 Open to Collaboration
