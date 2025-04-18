@@ -1,6 +1,6 @@
 # Hello everyone.
 
-I am Ania. I am an aspiring full-stack developer and aspiring software developer from Poland. Nice to meet you.  
+I am Ania. I am an aspiring full-stack developer and aspiring software developer from Poland and I am in my first year of computer science. Nice to meet you.  
 ![kuturin's Stats](https://github-readme-stats.vercel.app/api?username=kuturin&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)  
 ![kuturin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuturin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  
 
