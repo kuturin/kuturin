@@ -10,7 +10,7 @@ I am Ania. I am an aspiring full-stack developer and aspiring software developer
 **Age:** 31  
 **Loves:** TTRPG, Fantasy, Lovecraftian Horror, Anime, Video Games  
 **Gender:** Female (She/Her)  
-**Hobbies:** Programming, TTRPG, Video Games, Anime  
+**Hobbies:** Programming, TTRPG, Video Games, Fantasy, Anime  
 
 ## Technology
 
