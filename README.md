@@ -6,7 +6,7 @@ I am Ania. I am an aspiring full-stack developer and aspiring software developer
 
 ## About me
 
-**Name:** Anna (you call me also Ania)  
+**Name:** Anna
 **Age:** 31  
 **Loves:** TTRPG, Fantasy, Lovecraftian Horror, Anime, Video Games  
 **Gender:** Female (She/Her)  
